@@ -1,0 +1,35 @@
+[33mcommit c039bab9ced787bfe100a948a493285199c9e080[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: stungtoung <125963905+stungtoung@users.noreply.github.com>
+Date:   Sat Feb 17 11:28:14 2024 +0200
+
+    this is the subject of the commit # this is the body try the multi line commit
+
+[33mcommit 09aff3296702f3afe3d4f2e13de2b6252b70c612[m
+Author: stungtoung <125963905+stungtoung@users.noreply.github.com>
+Date:   Sun Feb 4 09:13:06 2024 +0200
+
+    add a line to try commit
+
+[33mcommit 4f258d56869d530e058205c33f34cbddceb476ad[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: stungtoung <125963905+stungtoung@users.noreply.github.com>
+Date:   Sat Apr 1 14:42:15 2023 +0200
+
+    added line to try commit massage in vs code
+
+[33mcommit 52e3c88f707911b0057de83dcd7679e7067d7c96[m
+Author: stungtoung <mohammedmido2050@gmail.com>
+Date:   Fri Mar 31 11:09:32 2023 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit b157335089360658515ac5eb1cda074f92b48321[m
+Author: stungtoung <mohammedmido2050@gmail.com>
+Date:   Fri Mar 31 11:00:51 2023 +0200
+
+    add hello_world.txt
+
+[33mcommit 637c2a322ed0e3120ff5a83389de31221899da36[m
+Author: stungtoung <125963905+stungtoung@users.noreply.github.com>
+Date:   Fri Mar 31 10:51:10 2023 +0200
+
+    Initial commit
